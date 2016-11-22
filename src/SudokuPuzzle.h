@@ -1,0 +1,8 @@
+//
+// Created by Ryan Jin on 11/20/16.
+//
+
+#ifndef SUDOKUSOLVER_SUDOKUPUZZLE_H
+#define SUDOKUSOLVER_SUDOKUPUZZLE_H
+
+#endif //SUDOKUSOLVER_SUDOKUPUZZLE_H

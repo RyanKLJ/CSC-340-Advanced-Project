@@ -3,16 +3,17 @@ Advanced Project for CSC340
 San Francisco State University - Fall 2016
 Professor Omar Shaikh
 
-I decided to code a program which can solve a Sudoku.  I was going to code a simple game at first, such as Snake, but decided the Sudoku Solver would be better suited. I will be storing the values of the Sudoku in a two-dimensional array and use functions to determine which numbers are left.
+I decided to code a program which can solve a Sudoku.  I was going to code a simple game at first, such as Snake, but decided the Sudoku Solver would be better suited.
+Purpose of the Program: A Sudoku puzzle solver which, given a Sudoku puzzle on standard input, will compute all possible solutions and write them to standard output.  Works with both valid and invalid Sudoku puzzles.  This includes any puzzle with single or multiple solutions.
 
 Task #1:
-Think of and complete all of the needed function declarations.
+Complete the implementation for "Cell.h" and "SudokuPuzzle.h"
 
 Task #2:
-Complete the implementation and code for each function.
+Complete the implementation for "SudokoSolver.h"
 
 Task #3:
-Create / import a Sudoku for any type of debugging.
+Complete the code for "main.cpp" and test run program with a sudoko puzzle
 
 Task #4:
 Finish anything else needed.
